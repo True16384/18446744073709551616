@@ -5141,11 +5141,15 @@ here is intended for Fibonacci variant) */
   .tile.tile-8192 .tile-inner {
     color: #f9f6f2;
     background: #2db388; }
-  .tile.tile-16384 .tile-inner, 
-  .tile.tile-32768 .tile-inner, 
-  .tile.tile-65536 .tile-inner { 
+  .tile.tile-16384 .tile-inner { 
     color: #f9f6f2;
     background: #2d83b3; }
+  .tile.tile-32768 .tile-inner { 
+    color: #f9f6f2;
+    background: #2d2db3; }
+  .tile.tile-65536 .tile-inner {
+    color: #f9f6f2;
+    background: #b32db3; }
   .tile.tile-4294967296 .tile-inner {
     background: #ff7f3f;
     font-size: 8px; }
@@ -6889,7 +6893,7 @@ here is intended for Fibonacci variant) */
     margin-top: 15px; }
 
   .container {
-    width: 542px;
+    width: 1069.5px;
     margin: 0 auto; }
 
   .score-container, .best-container {
@@ -6917,8 +6921,8 @@ here is intended for Fibonacci variant) */
     -moz-user-select: none;
     background: #bbada0;
     border-radius: 6px;
-    width: 542px;
-    height: 542px;
+    width: 1069.5px;
+    height: 1069.5px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
@@ -7087,9 +7091,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(0px, 660px);
   transform: translate(0px, 660px); }
 .tile.tile-position-1-22 {
-  -webkit-transform: translate(0px, 1260px);
-  -moz-transform: translate(0px, 1260px);
-  transform: translate(0px, 1260px); }
+  -webkit-transform: translate(0px, 693px);
+  -moz-transform: translate(0px, 693px);
+  transform: translate(0px, 693px); }
 .tile.tile-position-1-23 {
   -webkit-transform: translate(0px, 726px);
   -moz-transform: translate(0px, 726px);
@@ -7216,9 +7220,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(33px, 660px);
   transform: translate(33px, 660px); }
 .tile.tile-position-2-22 {
-  -webkit-transform: translate(33px, 1260px);
-  -moz-transform: translate(33px, 1260px);
-  transform: translate(33px, 1260px); }
+  -webkit-transform: translate(33px, 693px);
+  -moz-transform: translate(33px, 693px);
+  transform: translate(33px, 693px); }
 .tile.tile-position-2-23 {
   -webkit-transform: translate(33px, 726px);
   -moz-transform: translate(33px, 726px);
@@ -7345,9 +7349,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(66px, 660px);
   transform: translate(66px, 660px); }
 .tile.tile-position-3-22 {
-  -webkit-transform: translate(66px, 1260px);
-  -moz-transform: translate(66px, 1260px);
-  transform: translate(66px, 1260px); }
+  -webkit-transform: translate(66px, 693px);
+  -moz-transform: translate(66px, 693px);
+  transform: translate(66px, 693px); }
 .tile.tile-position-3-23 {
   -webkit-transform: translate(66px, 726px);
   -moz-transform: translate(66px, 726px);
@@ -7474,9 +7478,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(99px, 660px);
   transform: translate(99px, 660px); }
 .tile.tile-position-4-22 {
-  -webkit-transform: translate(99px, 1260px);
-  -moz-transform: translate(99px, 1260px);
-  transform: translate(99px, 1260px); }
+  -webkit-transform: translate(99px, 693px);
+  -moz-transform: translate(99px, 693px);
+  transform: translate(99px, 693px); }
 .tile.tile-position-4-23 {
   -webkit-transform: translate(99px, 726px);
   -moz-transform: translate(99px, 726px);
@@ -7603,9 +7607,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(132px, 660px);
   transform: translate(132px, 660px); }
 .tile.tile-position-5-22 {
-  -webkit-transform: translate(132px, 1260px);
-  -moz-transform: translate(132px, 1260px);
-  transform: translate(132px, 1260px); }
+  -webkit-transform: translate(132px, 693px);
+  -moz-transform: translate(132px, 693px);
+  transform: translate(132px, 693px); }
 .tile.tile-position-5-23 {
   -webkit-transform: translate(132px, 726px);
   -moz-transform: translate(132px, 726px);
@@ -7732,9 +7736,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(165px, 660px);
   transform: translate(165px, 660px); }
 .tile.tile-position-6-22 {
-  -webkit-transform: translate(165px, 1260px);
-  -moz-transform: translate(165px, 1260px);
-  transform: translate(165px, 1260px); }
+  -webkit-transform: translate(165px, 693px);
+  -moz-transform: translate(165px, 693px);
+  transform: translate(165px, 693px); }
 .tile.tile-position-6-23 {
   -webkit-transform: translate(165px, 726px);
   -moz-transform: translate(165px, 726px);
@@ -7861,9 +7865,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(198px, 660px);
   transform: translate(198px, 660px); }
 .tile.tile-position-7-22 {
-  -webkit-transform: translate(198px, 1260px);
-  -moz-transform: translate(198px, 1260px);
-  transform: translate(198px, 1260px); }
+  -webkit-transform: translate(198px, 693px);
+  -moz-transform: translate(198px, 693px);
+  transform: translate(198px, 693px); }
 .tile.tile-position-7-23 {
   -webkit-transform: translate(198px, 726px);
   -moz-transform: translate(198px, 726px);
@@ -7990,9 +7994,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(231px, 660px);
   transform: translate(231px, 660px); }
 .tile.tile-position-8-22 {
-  -webkit-transform: translate(231px, 1260px);
-  -moz-transform: translate(231px, 1260px);
-  transform: translate(231px, 1260px); }
+  -webkit-transform: translate(231px, 693px);
+  -moz-transform: translate(231px, 693px);
+  transform: translate(231px, 693px); }
 .tile.tile-position-8-23 {
   -webkit-transform: translate(231px, 726px);
   -moz-transform: translate(231px, 726px);
@@ -8119,9 +8123,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(264px, 660px);
   transform: translate(264px, 660px); }
 .tile.tile-position-9-22 {
-  -webkit-transform: translate(264px, 1260px);
-  -moz-transform: translate(264px, 1260px);
-  transform: translate(264px, 1260px); }
+  -webkit-transform: translate(264px, 693px);
+  -moz-transform: translate(264px, 693px);
+  transform: translate(264px, 693px); }
 .tile.tile-position-9-23 {
   -webkit-transform: translate(264px, 726px);
   -moz-transform: translate(264px, 726px);
@@ -8248,9 +8252,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(297px, 660px);
   transform: translate(297px, 660px); }
 .tile.tile-position-10-22 {
-  -webkit-transform: translate(297px, 1260px);
-  -moz-transform: translate(297px, 1260px);
-  transform: translate(297px, 1260px); }
+  -webkit-transform: translate(297px, 693px);
+  -moz-transform: translate(297px, 693px);
+  transform: translate(297px, 693px); }
 .tile.tile-position-10-23 {
   -webkit-transform: translate(297px, 726px);
   -moz-transform: translate(297px, 726px);
@@ -8377,9 +8381,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(330px, 660px);
   transform: translate(330px, 660px); }
 .tile.tile-position-11-22 {
-  -webkit-transform: translate(330px, 1260px);
-  -moz-transform: translate(330px, 1260px);
-  transform: translate(330px, 1260px); }
+  -webkit-transform: translate(330px, 693px);
+  -moz-transform: translate(330px, 693px);
+  transform: translate(330px, 693px); }
 .tile.tile-position-11-23 {
   -webkit-transform: translate(330px, 726px);
   -moz-transform: translate(330px, 726px);
@@ -8506,9 +8510,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(363px, 660px);
   transform: translate(363px, 660px); }
 .tile.tile-position-12-22 {
-  -webkit-transform: translate(363px, 1260px);
-  -moz-transform: translate(363px, 1260px);
-  transform: translate(363px, 1260px); }
+  -webkit-transform: translate(363px, 693px);
+  -moz-transform: translate(363px, 693px);
+  transform: translate(363px, 693px); }
 .tile.tile-position-12-23 {
   -webkit-transform: translate(363px, 726px);
   -moz-transform: translate(363px, 726px);
@@ -8635,9 +8639,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(396px, 660px);
   transform: translate(396px, 660px); }
 .tile.tile-position-13-22 {
-  -webkit-transform: translate(396px, 1260px);
-  -moz-transform: translate(396px, 1260px);
-  transform: translate(396px, 1260px); }
+  -webkit-transform: translate(396px, 693px);
+  -moz-transform: translate(396px, 693px);
+  transform: translate(396px, 693px); }
 .tile.tile-position-13-23 {
   -webkit-transform: translate(396px, 726px);
   -moz-transform: translate(396px, 726px);
@@ -8764,9 +8768,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(429px, 660px);
   transform: translate(429px, 660px); }
 .tile.tile-position-14-22 {
-  -webkit-transform: translate(429px, 1260px);
-  -moz-transform: translate(429px, 1260px);
-  transform: translate(429px, 1260px); }
+  -webkit-transform: translate(429px, 693px);
+  -moz-transform: translate(429px, 693px);
+  transform: translate(429px, 693px); }
 .tile.tile-position-14-23 {
   -webkit-transform: translate(429px, 726px);
   -moz-transform: translate(429px, 726px);
@@ -8893,9 +8897,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(462px, 660px);
   transform: translate(462px, 660px); }
 .tile.tile-position-15-22 {
-  -webkit-transform: translate(462px, 1260px);
-  -moz-transform: translate(462px, 1260px);
-  transform: translate(462px, 1260px); }
+  -webkit-transform: translate(462px, 693px);
+  -moz-transform: translate(462px, 693px);
+  transform: translate(462px, 693px); }
 .tile.tile-position-15-23 {
   -webkit-transform: translate(462px, 726px);
   -moz-transform: translate(462px, 726px);
@@ -9022,9 +9026,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(495px, 660px);
   transform: translate(495px, 660px); }
 .tile.tile-position-16-22 {
-  -webkit-transform: translate(495px, 1260px);
-  -moz-transform: translate(495px, 1260px);
-  transform: translate(495px, 1260px); }
+  -webkit-transform: translate(495px, 693px);
+  -moz-transform: translate(495px, 693px);
+  transform: translate(495px, 693px); }
 .tile.tile-position-16-23 {
   -webkit-transform: translate(495px, 726px);
   -moz-transform: translate(495px, 726px);
@@ -9151,9 +9155,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(528px, 660px);
   transform: translate(528px, 660px); }
 .tile.tile-position-17-22 {
-  -webkit-transform: translate(528px, 1260px);
-  -moz-transform: translate(528px, 1260px);
-  transform: translate(528px, 1260px); }
+  -webkit-transform: translate(528px, 693px);
+  -moz-transform: translate(528px, 693px);
+  transform: translate(528px, 693px); }
 .tile.tile-position-17-23 {
   -webkit-transform: translate(528px, 726px);
   -moz-transform: translate(528px, 726px);
@@ -9280,9 +9284,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(561px, 660px);
   transform: translate(561px, 660px); }
 .tile.tile-position-18-22 {
-  -webkit-transform: translate(561px, 1260px);
-  -moz-transform: translate(561px, 1260px);
-  transform: translate(561px, 1260px); }
+  -webkit-transform: translate(561px, 693px);
+  -moz-transform: translate(561px, 693px);
+  transform: translate(561px, 693px); }
 .tile.tile-position-18-23 {
   -webkit-transform: translate(561px, 726px);
   -moz-transform: translate(561px, 726px);
@@ -9409,9 +9413,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(594px, 660px);
   transform: translate(594px, 660px); }
 .tile.tile-position-19-22 {
-  -webkit-transform: translate(594px, 1260px);
-  -moz-transform: translate(594px, 1260px);
-  transform: translate(594px, 1260px); }
+  -webkit-transform: translate(594px, 693px);
+  -moz-transform: translate(594px, 693px);
+  transform: translate(594px, 693px); }
 .tile.tile-position-19-23 {
   -webkit-transform: translate(594px, 726px);
   -moz-transform: translate(594px, 726px);
@@ -9538,9 +9542,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(627px, 660px);
   transform: translate(627px, 660px); }
 .tile.tile-position-20-22 {
-  -webkit-transform: translate(627px, 1260px);
-  -moz-transform: translate(627px, 1260px);
-  transform: translate(627px, 1260px); }
+  -webkit-transform: translate(627px, 693px);
+  -moz-transform: translate(627px, 693px);
+  transform: translate(627px, 693px); }
 .tile.tile-position-20-23 {
   -webkit-transform: translate(627px, 726px);
   -moz-transform: translate(627px, 726px);
@@ -9667,9 +9671,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(660px, 660px);
   transform: translate(660px, 660px); }
 .tile.tile-position-21-22 {
-  -webkit-transform: translate(660px, 1260px);
-  -moz-transform: translate(660px, 1260px);
-  transform: translate(660px, 1260px); }
+  -webkit-transform: translate(660px, 693px);
+  -moz-transform: translate(660px, 693px);
+  transform: translate(660px, 693px); }
 .tile.tile-position-21-23 {
   -webkit-transform: translate(660px, 726px);
   -moz-transform: translate(660px, 726px);
@@ -9796,9 +9800,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(693px, 660px);
   transform: translate(693px, 660px); }
 .tile.tile-position-22-22 {
-  -webkit-transform: translate(693px, 1260px);
-  -moz-transform: translate(693px, 1260px);
-  transform: translate(693px, 1260px); }
+  -webkit-transform: translate(693px, 693px);
+  -moz-transform: translate(693px, 693px);
+  transform: translate(693px, 693px); }
 .tile.tile-position-22-23 {
   -webkit-transform: translate(693px, 726px);
   -moz-transform: translate(693px, 726px);
@@ -9925,9 +9929,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(726px, 660px);
   transform: translate(726px, 660px); }
 .tile.tile-position-23-22 {
-  -webkit-transform: translate(726px, 1260px);
-  -moz-transform: translate(726px, 1260px);
-  transform: translate(726px, 1260px); }
+  -webkit-transform: translate(726px, 693px);
+  -moz-transform: translate(726px, 693px);
+  transform: translate(726px, 693px); }
 .tile.tile-position-23-23 {
   -webkit-transform: translate(726px, 726px);
   -moz-transform: translate(726px, 726px);
@@ -10054,9 +10058,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(759px, 660px);
   transform: translate(759px, 660px); }
 .tile.tile-position-24-22 {
-  -webkit-transform: translate(759px, 1260px);
-  -moz-transform: translate(759px, 1260px);
-  transform: translate(759px, 1260px); }
+  -webkit-transform: translate(759px, 693px);
+  -moz-transform: translate(759px, 693px);
+  transform: translate(759px, 693px); }
 .tile.tile-position-24-23 {
   -webkit-transform: translate(759px, 726px);
   -moz-transform: translate(759px, 726px);
@@ -10183,9 +10187,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(792px, 660px);
   transform: translate(792px, 660px); }
 .tile.tile-position-25-22 {
-  -webkit-transform: translate(792px, 1260px);
-  -moz-transform: translate(792px, 1260px);
-  transform: translate(792px, 1260px); }
+  -webkit-transform: translate(792px, 693px);
+  -moz-transform: translate(792px, 693px);
+  transform: translate(792px, 693px); }
 .tile.tile-position-25-23 {
   -webkit-transform: translate(792px, 726px);
   -moz-transform: translate(792px, 726px);
@@ -10312,9 +10316,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(825px, 660px);
   transform: translate(825px, 660px); }
 .tile.tile-position-26-22 {
-  -webkit-transform: translate(825px, 1260px);
-  -moz-transform: translate(825px, 1260px);
-  transform: translate(825px, 1260px); }
+  -webkit-transform: translate(825px, 693px);
+  -moz-transform: translate(825px, 693px);
+  transform: translate(825px, 693px); }
 .tile.tile-position-26-23 {
   -webkit-transform: translate(825px, 726px);
   -moz-transform: translate(825px, 726px);
@@ -10441,9 +10445,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(858px, 660px);
   transform: translate(858px, 660px); }
 .tile.tile-position-27-22 {
-  -webkit-transform: translate(858px, 1260px);
-  -moz-transform: translate(858px, 1260px);
-  transform: translate(858px, 1260px); }
+  -webkit-transform: translate(858px, 693px);
+  -moz-transform: translate(858px, 693px);
+  transform: translate(858px, 693px); }
 .tile.tile-position-27-23 {
   -webkit-transform: translate(858px, 726px);
   -moz-transform: translate(858px, 726px);
@@ -10570,9 +10574,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(891px, 660px);
   transform: translate(891px, 660px); }
 .tile.tile-position-28-22 {
-  -webkit-transform: translate(891px, 1260px);
-  -moz-transform: translate(891px, 1260px);
-  transform: translate(891px, 1260px); }
+  -webkit-transform: translate(891px, 693px);
+  -moz-transform: translate(891px, 693px);
+  transform: translate(891px, 693px); }
 .tile.tile-position-28-23 {
   -webkit-transform: translate(891px, 726px);
   -moz-transform: translate(891px, 726px);
@@ -10699,9 +10703,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(924px, 660px);
   transform: translate(924px, 660px); }
 .tile.tile-position-29-22 {
-  -webkit-transform: translate(924px, 1260px);
-  -moz-transform: translate(924px, 1260px);
-  transform: translate(924px, 1260px); }
+  -webkit-transform: translate(924px, 693px);
+  -moz-transform: translate(924px, 693px);
+  transform: translate(924px, 693px); }
 .tile.tile-position-29-23 {
   -webkit-transform: translate(924px, 726px);
   -moz-transform: translate(924px, 726px);
@@ -10828,9 +10832,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(957px, 660px);
   transform: translate(957px, 660px); }
 .tile.tile-position-30-22 {
-  -webkit-transform: translate(957px, 1260px);
-  -moz-transform: translate(957px, 1260px);
-  transform: translate(957px, 1260px); }
+  -webkit-transform: translate(957px, 693px);
+  -moz-transform: translate(957px, 693px);
+  transform: translate(957px, 693px); }
 .tile.tile-position-30-23 {
   -webkit-transform: translate(957px, 726px);
   -moz-transform: translate(957px, 726px);
@@ -10957,9 +10961,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(990px, 660px);
   transform: translate(990px, 660px); }
 .tile.tile-position-31-22 {
-  -webkit-transform: translate(990px, 1260px);
-  -moz-transform: translate(990px, 1260px);
-  transform: translate(990px, 1260px); }
+  -webkit-transform: translate(990px, 693px);
+  -moz-transform: translate(990px, 693px);
+  transform: translate(990px, 693px); }
 .tile.tile-position-31-23 {
   -webkit-transform: translate(990px, 726px);
   -moz-transform: translate(990px, 726px);
@@ -11086,9 +11090,9 @@ here is intended for Fibonacci variant) */
   -moz-transform: translate(1023px, 660px);
   transform: translate(1023px, 660px); }
 .tile.tile-position-32-22 {
-  -webkit-transform: translate(1023px, 1260px);
-  -moz-transform: translate(1023px, 1260px);
-  transform: translate(1023px, 1260px); }
+  -webkit-transform: translate(1023px, 693px);
+  -moz-transform: translate(1023px, 693px);
+  transform: translate(1023px, 693px); }
 .tile.tile-position-32-23 {
   -webkit-transform: translate(1023px, 726px);
   -moz-transform: translate(1023px, 726px);
